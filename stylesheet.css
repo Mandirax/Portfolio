@@ -39,7 +39,9 @@ header{
 height: 65px;
 width: 100%;
 background-color:DarkGray;
-
+position:fixed;
+ top:0;
+ z-index:10;
 
 }
 
