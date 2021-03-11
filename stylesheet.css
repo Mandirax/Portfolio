@@ -1,0 +1,164 @@
+body{
+margin:0;
+}
+
+.Welcome{
+background-image:url(/college/scg-canvas-background-animation-24.jpg);
+background-size:cover;
+padding: 40px 0 100px 0;
+}
+ 
+
+.Welcome img{
+border-radius:50%;
+height:250px;
+margin-top:170px;
+margin-left:1000px;
+}
+.Welcome h1{
+text-align:center;
+margin-top:-190px;
+color:white;
+font-size:36px;
+}
+.Welcome h2{
+padding-top:20px;
+padding-left:500px;
+color:white;
+}
+.Welcome p{
+color:white;
+font-size:21px;
+padding-top:20px;
+padding-left:360px;
+}
+span{
+font-size:40px;
+}
+header{
+height: 65px;
+width: 100%;
+background-color:DarkGray;
+
+
+}
+
+.header-left{
+background-color:Goldenrod;
+height: 65px;
+width:120px;
+float:left;
+}
+.header-right{
+float:right;
+background-color:Goldenrod;
+transition:all 0.5;
+}
+.header-right:hover{
+background-color:DarkGoldenrod;
+opacity:0.7;
+}
+
+.Login{
+float:right;
+
+}
+.header-right a{
+line-height:65px;
+padding-left:25px;
+padding-right:25px;
+color:white;
+display:block;
+}
+.project{
+height:800px;
+padding-bottom:80px;
+background-color:DarkKhaki;
+}
+.About{
+padding-top:60px;
+height:500px;
+color:white;
+font-weight:normal;
+}
+.About{
+text-align:center;
+}
+ul{
+list-style:none;
+}
+.s{
+padding-left:10px;
+}
+.el{
+padding-right:25px;
+}
+.un{
+padding-left:220px;
+}
+.hb{
+list-style-type: none;
+padding-left:20px;
+}
+.pp{
+padding-left:30px;
+}
+.ww{
+padding-right:35px;
+}
+.mi{
+padding-right:105px;
+}
+.project-title{
+text-align:center;
+height:300px;
+margin:0;
+background-color:DimGray;
+color:white;
+}
+.project-title a{
+text-decoration: none;
+}
+
+.btn{
+padding-top:12px;
+padding-bottom:12px;
+padding-left:24px;
+padding-right:24px;
+color:yellow;
+desplay:inline-block;
+opacity:0.8;
+}
+.linkedin{
+background-color:SteelBlue;
+margin-right:50px;
+color:white;
+}
+a{
+text-decoration: none;
+}
+
+.GitHub{
+background-color:black;
+margin-left:10px;
+color:white;
+
+}
+.btn-project{
+text-align:center;
+}
+.btn-project p{
+font-size:36px;
+}
+.pt{
+font-color:white;
+}
+.project-title a{
+color:white;
+}
+.pt{
+padding-right:140px;
+}
+.fa{
+margin-right:5px;
+}
